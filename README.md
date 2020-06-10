@@ -2,7 +2,7 @@
 Introduction:
 This is basically a module based on many other "hello_world" on the internet. Its purpose is nothing but trying to print out Hello World when request localhost.
 
-Update: Right now, it is printing out the querystring in the URL and that's it. There will be other updates in the future, stay tuned.
+Update(Jun 10 12:06): Right now, it is printing out the querystring in the URL and that's it. There will be other updates in the future, stay tuned.
 
 Installation:
 Run these commands in the nginx directory:
